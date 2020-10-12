@@ -1,0 +1,7 @@
+.idea/*
+
+# Products
+*.pyc
+build/*
+dist/*
+vfoa.egg-info/*
